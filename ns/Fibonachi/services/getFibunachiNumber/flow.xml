@@ -226,7 +226,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -278,7 +278,7 @@
 
   <!-- nodes -->
 
-<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/fibonachiNumber;1;0">
+<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/fibonacciNumber;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
@@ -287,7 +287,7 @@
     <value name="node_type">unknown</value>
     <value name="node_subtype">unknown</value>
     <value name="is_public">false</value>
-    <value name="field_name">fibonachiNumber</value>
+    <value name="field_name">fibonacciNumber</value>
     <value name="field_type">string</value>
     <value name="field_dim">0</value>
     <value name="nillable">true</value>
@@ -363,7 +363,7 @@
 
 <Values version="2.0">
   <array name="xml" type="value" depth="1">
-    <value>fibonachiNumber</value>
+    <value>fibonacciNumber</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">unknown</value>
@@ -454,7 +454,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -581,7 +581,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -614,7 +614,7 @@
 
   <!-- nodes -->
 
-<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/fibonachiNumber;1;0">
+<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/fibonacciNumber;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
@@ -623,7 +623,7 @@
     <value name="node_type">unknown</value>
     <value name="node_subtype">unknown</value>
     <value name="is_public">false</value>
-    <value name="field_name">fibonachiNumber</value>
+    <value name="field_name">fibonacciNumber</value>
     <value name="field_type">string</value>
     <value name="field_dim">0</value>
     <value name="nillable">true</value>
@@ -699,7 +699,7 @@
 
 <Values version="2.0">
   <array name="xml" type="value" depth="1">
-    <value>fibonachiNumber</value>
+    <value>fibonacciNumber</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">unknown</value>
@@ -790,7 +790,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -970,7 +970,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -1091,7 +1091,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -1272,7 +1272,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -1386,7 +1386,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -1442,7 +1442,7 @@
 
   <!-- nodes -->
 
-<MAPCOPY FROM="/value;1;0" TO="/fibonachiNumber;1;0">
+<MAPCOPY FROM="/value;1;0" TO="/fibonacciNumber;1;0">
 </MAPCOPY>
 
 <MAPDELETE FIELD="/num1;1;0">
@@ -1535,7 +1535,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -1616,7 +1616,7 @@
         <value name="node_type">unknown</value>
         <value name="node_subtype">unknown</value>
         <value name="is_public">false</value>
-        <value name="field_name">fibonachiNumber</value>
+        <value name="field_name">fibonacciNumber</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <value name="nillable">true</value>
@@ -1656,7 +1656,7 @@
 <MAPCOPY FROM="/numTwo;1;0" TO="/numOne;1;0">
 </MAPCOPY>
 
-<MAPCOPY FROM="/fibonachiNumber;1;0" TO="/numTwo;1;0">
+<MAPCOPY FROM="/fibonacciNumber;1;0" TO="/numTwo;1;0">
 </MAPCOPY>
 </MAP>
 </RETRY>
@@ -1727,7 +1727,7 @@
 
 <Values version="2.0">
   <array name="xml" type="value" depth="1">
-    <value>fibonachiNumber</value>
+    <value>fibonacciNumber</value>
   </array>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">unknown</value>
