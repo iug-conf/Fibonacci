@@ -801,7 +801,7 @@
 
   <!-- nodes -->
 
-<EXIT FROM="$flow" SIGNAL="FAILURE" FAILURE-MESSAGE="The fibunachi series start from 0.">
+<EXIT FROM="$flow" SIGNAL="FAILURE" FAILURE-MESSAGE="The Fibonacci series start from 0.">
   <COMMENT></COMMENT>
 </EXIT>
 </SEQUENCE>
